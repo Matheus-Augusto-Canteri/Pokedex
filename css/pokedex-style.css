@@ -91,9 +91,7 @@ main {
 
 .gif {
     position: absolute;
-    top: 95%;
-    bottom: 25%;
+    top: 98%;
     left: 55%;
-    right: 25%;
     transform: translate(-63%, 20%);
 }
