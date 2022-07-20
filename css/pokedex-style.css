@@ -39,6 +39,7 @@ main {
 .pokemon-name {
     color: #3A444D;
     text-transform: capitalize;
+    letter-spacing: 3px;
 }
 
 .formulario {
