@@ -1,4 +1,7 @@
-@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+@font-face {
+    font-family: 'Pokemon';
+    src: url('Pokemon Solid.ttf') format('truetype');
+}
 
 body {
     text-align: center;
@@ -7,7 +10,7 @@ body {
 }
 
 main {
-    font-family: 'Pokemon Solid';
+    font-family: 'Pokemon';
     position: relative;
     display: inline-block;
     margin-top: 1%;
@@ -50,7 +53,7 @@ main {
 }
 
 .input-search {
-    font-family: 'Pokemon Solid', sans-serif;
+    font-family: 'Pokemon', sans-serif;
     width: 100%;
     outline: none;
     border: 2px solid #333;
@@ -73,7 +76,7 @@ main {
 }
 
 .buttons {
-    font-family: 'Pokemon Solid', sans-serif;
+    font-family: 'Pokemon', sans-serif;
     width: 50%;
     font-weight: 600;
     color: white;
